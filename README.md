@@ -37,6 +37,7 @@
 ## 🛠️ Tech Stack
 
 ### Frontend Development
+
 - **HTML5** - 시맨틱 마크업
 - **CSS3** - Flexbox, Grid, 애니메이션, 미디어 쿼리
 - **JavaScript (ES6+)** - 모던 자바스크립트, Intersection Observer API
@@ -45,6 +46,7 @@
 - **Tailwind CSS** - 유틸리티 퍼스트 CSS 프레임워크
 
 ### Design & Tools
+
 - **Figma** - UI/UX 디자인
 - **Git & GitHub** - 버전 관리 및 협업
 - **Font Awesome** - 아이콘
@@ -55,12 +57,14 @@
 ## ✨ Features
 
 ### 🎨 Design Features
+
 - **모던한 디자인** - 깔끔하고 심플한 UI/UX
 - **반응형 디자인** - 데스크톱, 태블릿, 모바일 완벽 지원
 - **인터랙티브 요소** - 호버 효과, 스크롤 애니메이션
 - **색상 팔레트** - 보라색 악센트와 노란색 포인트
 
 ### 🚀 Functionality
+
 - **스크롤 애니메이션** - Intersection Observer API 활용
 - **타이핑 효과** - 히어로 섹션 타이틀 애니메이션
 - **패럴랙스 효과** - 프로필 이미지 움직임
@@ -87,14 +91,17 @@ vibe-coding-portfolio/
 ## 🎯 Services
 
 ### 01. 웹 디자인 & 퍼블리싱
+
 - 직관적이고 보기 좋은 UI/UX 디자인
 - 반응형 웹사이트 제작
 
 ### 02. 프론트엔드 개발
+
 - React, TypeScript, Tailwind CSS 기반 개발
 - 사용자 경험을 고려한 인터랙티브 웹 기능 구현
 
 ### 03. 홈페이지 제작 & 커스터마이징
+
 - 아임웹, 워드프레스 기반 홈페이지 제작
 - 개인/소규모 비즈니스 맞춤형 솔루션 제공
 
@@ -103,6 +110,7 @@ vibe-coding-portfolio/
 ## 🛠️ Skills & Experience
 
 ### 💻 Technical Skills
+
 - **Frontend Design** - 웹 디자인 및 퍼블리싱
 - **Frontend Development** - 프론트엔드 개발
 - **Responsive Design** - 반응형 웹사이트 제작
@@ -111,6 +119,7 @@ vibe-coding-portfolio/
 - **Version Control** - Git/GitHub 협업
 
 ### 📚 Experience
+
 - **2025 - Present** 프론트엔드 부트캠프 과정
 - **이전 디자인 경험** 온라인 사업부 근무
 
@@ -158,16 +167,20 @@ vibe-coding-portfolio/
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - 웹 브라우저 (Chrome, Firefox, Safari, Edge)
 - 로컬 서버 (선택사항)
 
 ### Installation
+
 1. 레포지토리 클론
+
 ```bash
 git clone https://github.com/ElviaChoi/vibe-coding-portfolio.git
 ```
 
 2. 프로젝트 폴더로 이동
+
 ```bash
 cd vibe-coding-portfolio
 ```

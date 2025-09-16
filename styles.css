@@ -580,13 +580,8 @@ body {
 .section-label-rotated {
   font-size: 1rem;
   color: #8b5cf6;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   font-weight: 500;
-  transform: rotate(-90deg);
-  transform-origin: left center;
-  position: absolute;
-  left: -40px;
-  top: 50px;
 }
 
 .testimonial-left h2 {
