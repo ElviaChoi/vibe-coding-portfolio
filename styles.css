@@ -10,6 +10,7 @@ body {
   line-height: 1.6;
   color: #333;
   background-color: #fff;
+  overflow-x: hidden;
 }
 
 .container {
@@ -280,6 +281,8 @@ body {
 .services {
   padding: 80px 0;
   background: #ffd700;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
 }
 
 .services-content {
@@ -683,6 +686,8 @@ body {
 .contact {
   padding: 80px 0;
   background: #ffd700;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
 }
 
 .contact-content {
@@ -793,6 +798,8 @@ body {
   padding: 40px 0;
   background: #333;
   color: white;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
 }
 
 .footer-content {
@@ -810,6 +817,7 @@ body {
 @media (max-width: 1024px) {
   .container {
     padding: 0 15px;
+    max-width: 100%;
   }
 
   .hero-content,
@@ -827,9 +835,21 @@ body {
   .contact-left h2 {
     font-size: 2.5rem;
   }
+
+  .hero-buttons {
+    justify-content: center;
+  }
 }
 
 @media (max-width: 768px) {
+  .container {
+    padding: 0 10px;
+  }
+
+  .header {
+    padding: 15px 0;
+  }
+
   .header .container {
     flex-direction: row;
     justify-content: space-between;
@@ -866,7 +886,7 @@ body {
   }
 
   .hero {
-    padding: 100px 0 60px;
+    padding: 120px 0 60px;
   }
 
   .hero-content,
@@ -906,7 +926,7 @@ body {
   }
 
   .hero-buttons {
-    justify-content: flex-start;
+    justify-content: center;
     flex-wrap: wrap;
   }
 
@@ -939,8 +959,12 @@ body {
 }
 
 @media (max-width: 480px) {
+  .container {
+    padding: 0 8px;
+  }
+
   .hero {
-    padding: 80px 0 40px;
+    padding: 100px 0 40px;
   }
 
   .hero-left h1,
